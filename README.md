@@ -50,8 +50,8 @@ Environment Setup
 
 ```bash
 # Clone the repository
-git clone <your-repo>
-cd cinemate-bot
+git clone Telegram-bot-project
+cd Telegram-bot-project 
 
 # Install dependencies
 pip install -r requirements.txt
